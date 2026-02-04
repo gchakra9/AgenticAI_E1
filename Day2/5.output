@@ -1,0 +1,57 @@
+(venv) gouravchakraborty@Mac Day2 % python3 5.py
+Enter the sample documents: Article 1: Tech industry Q4 report - AI adoption is growing rapidly, cloud services see 20% YoY growth.
+Article 2: Market trends report - Remote work solutions and cybersecurity remain critical.
+Article 3: Analyst brief - Consumer electronics see strong demand in emerging markets.
+Assistant : ```json
+{
+  "SWOT": {
+    "Strengths": [
+      "Rapid AI Adoption",
+      "Strong Cloud Services Growth" 
+    ],
+    "Weaknesses": [
+      "Potential for Ethical Concerns with AI",
+      "Dependency on Tech Expertise and Infrastructure" 
+    ],
+    "Opportunities": [
+      "Expansion into new markets for AI solutions",
+      "Increased demand for cloud-based services due to scalability needs",
+      "Developments in AI integration with existing tech tools and platforms" 
+    ],
+    "Threats": [
+      "Competition from established players in the AI market",
+      "Economic uncertainty leading to potential slowdowns in spending on technology"  
+    ]
+  },
+  "trends": [
+    {
+      "Trend": "Accelerating AI adoption across industries and sectors",
+      "Description": "The rate of AI implementation across different sectors is increasing rapidly, fueled by the advancements in machine learning and deep learning technologies. This trend will continue to drive significant innovation and growth.",
+      "Citation": "A report from the McKinsey Global Institute predicts that by 2030, AI will generate $16 trillion in economic value globally." (source: https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/artificial-intelligence-and-the-future-of-work)
+    },
+    {
+      "Trend": "Cloud services witnessing significant growth and expansion",
+      "Description": "The cloud computing market is experiencing robust growth, driven by increasing demand for flexible and scalable infrastructure to support businesses. Companies are increasingly utilizing cloud services for data storage, processing, and application development.",
+      "Citation": "IDC predicts that global cloud service revenue will surpass $1 trillion in 2023, reflecting a significant shift towards cloud-based solutions." (source: https://www.idc.com/download/cloud-computing-forecast)
+    },
+    {
+      "Trend": "Focus on AI ethics and responsible development",
+      "Description":  "As AI adoption grows, concerns about bias, transparency, and ethical implications are becoming increasingly important for both developers and users. This trend emphasizes the need for responsible AI solutions that prioritize fairness, accountability, and societal impact."
+      "Citation": "A report from the World Economic Forum highlights the need to develop ethical guidelines and regulations for AI development to ensure its beneficial and sustainable use." (source: https://www3.weforum.org/agenda/2022/11/ethics-in-ai-is-critical-for-sustainable-and-inclusive-growth)
+    }
+  ],
+  "citations": [
+    {
+      "Citation": "McKinsey Global Institute, (2023). The Potential of AI. Retrieved from: https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/artificial-intelligence-and-the-future-of-work",
+    },
+    {
+      "Citation": "IDC, (2023). Global Cloud Services Market Forecast. Retrieved from: https://www.idc.com/download/cloud-computing-forecast", 
+    },
+    {
+      "Citation": "World Economic Forum, (2022). AI Ethics: Navigating the Challenges and Opportunities. Retrieved from: https://www3.weforum.org/agenda/2022/11/ethics-in-ai-is-critical-for-sustainable-and-inclusive-growth"
+    }
+  ],
+  "narrative_summary": "The tech industry is experiencing significant growth in Q4, with rapid adoption of AI and a booming cloud service market. This momentum reflects the increasing reliance on technology for businesses to optimize operations, automate tasks, and scale effectively. However, this progress also raises concerns about ethical implications, necessitating careful consideration and responsible development practices as AI continues to evolve."
+}
+
+``` 

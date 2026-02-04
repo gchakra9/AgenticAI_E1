@@ -1,0 +1,92 @@
+(venv) gouravchakraborty@Mac Day2 % python3 5.py
+Enter the transcript text: lice: Let's review the Q1 marketing campaign results. We hit 85% of our target engagement.
+Bob: Great! For the next campaign, we should focus more on social media ads.
+Alice: Agreed. Can you prepare a draft plan by next Friday?
+Charlie: I will work on the budget allocation and share it by Wednesday.
+Alice: Also, we need to finalize the content calendar by Feb 10.
+Bob: I'll handle reaching out to influencers for the campaign.
+Assistant : ## Q1 Marketing Campaign Summary 
+
+**Decisions and Action Items:**
+
+| Item | Owner | Deadline | Confidence Score |
+|---|---|---|---|
+|  Review Q1 marketing campaign performance & identify areas for improvement | [Meeting Attendee (Name)] |  [Date of follow-up meeting] | High | 
+|  Develop strategies to reach the remaining 15% target engagement by next quarter | [Meeting Attendee (Name)] | [Date of action plan due] | Moderate |
+|  Explore potential opportunities for expansion in Q2 | [Team Lead] | [Date of report] | Medium |
+
+
+**Context:**
+
+* The Q1 marketing campaign achieved 85% of the target engagement.
+* There is a remaining 15% to reach for optimal impact. 
+* Meeting attendees will discuss and brainstorm solutions to address the remaining percentage and future campaign plans.  
+
+Enter the transcript text: Assistant : ## Meeting Summary 
+
+**Decisions:**
+
+* **Campaign Focus:** The team will prioritize social media advertising for the upcoming campaign.
+
+
+**Action Items:**
+
+| Owner | Deadline | Confidence Score | 
+|---|---|---|
+|  Bob | [Specify deadline] | [Confidence Level] (e.g., High, Medium, Low) | 
+|  Human | [Specify deadline] | [Confidence Level] (e.g., High, Medium, Low) |
+
+
+**Notes:**
+
+* It's important to specify deadlines for action items and assign a confidence score that reflects the level of certainty regarding completion. 
+
+
+Enter the transcript text: Assistant : ## Meeting Summary
+
+**Decisions & Action Items:**
+
+* **Action Item:** Prepare a draft plan 
+    * **Owner:** [Alice]
+    * **Deadline:** Next Friday
+    * **Confidence Score:** 1 (High) 
+
+
+Let me know if you'd like to add any other action items or insights from the meeting!  
+
+Enter the transcript text: Assistant : ## Meeting Summary
+
+**Decisions and Action Items:**
+
+| Item | Owner | Deadline | Confidence Score | 
+|---|---|---|---| 
+| Budget Allocation | Charlie | Wednesday | High |  
+
+
+Please note that the transcript is incomplete, meaning it lacks some necessary information to fully evaluate the "confidence score" of the assigned action item. 
+
+Enter the transcript text: Assistant : ## Meeting Summary
+
+**Decisions and Action Items:**
+
+* **Decision:** Finalize the content calendar
+    * **Owner:**  Alice
+    * **Deadline:** February 10th
+    * **Confidence Score:** High 
+ 
+Let me know if you'd like to add any more items or update the status of these actions. 
+
+Enter the transcript text: Assistant : ## Meeting Summary
+
+**Decisions:** 
+
+* **Influencer outreach handled by Bob.**
+
+**Action Items:**
+
+| Owner           | Deadline        | Confidence Score |
+|-----------------|---------------|--------------|
+| Bob             | [Date]         | 100%          | 
+
+
+Please note that a specific deadline is not specified in the transcript. The confidence score indicates Bob's strong commitment to this action item. 
