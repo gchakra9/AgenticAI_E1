@@ -1,0 +1,93 @@
+################################################################################################
+Scenario 1: Simple product question
+
+Email: "How do I reset my password?"
+
+Topic: account
+
+Urgency: low
+
+Action: Auto-reply using KB
+
+OUTPUT
+
+(venv) gouravchakraborty@Mac Capstone % python3 email_classifier_agent.py
+Please enter the following email details:
+Email content: How do I reset my password?
+Sender email: abc@gmail.com
+Email ID: 001
+
+--- FINAL OUTPUT ---
+Classification: {'intent': 'question', 'urgency': 'low', 'topic': 'account', 'summary': '"How do I reset my password?"'}
+Draft Response:
+ <think>
+Okay, I need to write a professional customer support reply based on the email summary and the given information. Let me start by understanding the key points. The user is asking how to reset their password, and there's a low urgency level. The helpful info mentions clicking on the 'Forgot Password' link and following instructions. Also, they want to know how to change their account email.
+
+First, I should make sure the tone is professional and clear. Start with a friendly greeting, maybe "Hi [First Name]". Then state the purpose of the response. Since the urgency is low, I don't need to mention anything about immediate action. Instead, provide the steps directly. Make sure the answer is concise and direct. Check for any typos or errors. Also, include a closing that acknowledges the user's question and offers further assistance. Let me put that all together.
+</think>
+
+Hi [First Name],  
+
+Thank you for reaching out!  
+
+To reset your password, please click on the "Forgot Password" option on the login page and follow the instructions provided.  
+
+If you need to update your account email, please go to Account Settings > Email > Edit to change your address.  
+
+Let me know if you need further assistance!  
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Company Name]  
+
+---  
+This response is concise, clear, and maintains a professional tone, addressing both the password reset and email update instructions directly.
+Messages: ['Email read and parsed', 'Knowledge base searched with relevant Q&A', 'Draft reply created', 'Auto-reply sent to customer']
+
+################################################################################################
+Scenario 2: Bug report
+
+Email: "The export feature crashes when I select PDF format."
+
+Topic: bug
+
+Urgency: medium/high
+
+Action: Escalate & draft reply
+
+OUTPUT
+
+(venv) gouravchakraborty@Mac Capstone % python3 email_classifier_agent.py
+Please enter the following email details:
+Email content: The export feature crashes when I select PDF format
+Sender email: acb
+Email ID: 002
+
+--- FINAL OUTPUT ---
+Classification: {'intent': 'technical_issue', 'urgency': 'low', 'topic': 'export_feature', 'summary': 'The export feature crashes when selecting PDF format.'}
+Draft Response:
+ <think>
+Okay, the user wants me to write a professional customer support reply based on the email summary and the urgency. Let me start by understanding the key points. The main issue is that the export feature crashes when using PDF format. The urgency is low, so the response should be concise and focused.
+
+First, I need to make sure the email is polite and clear. Start with a friendly greeting, like "Dear [Customer's Name]". Then state the problem clearly: the export crashes when selecting PDF. Mention the urgency as low, so maybe say "urgent" but keep it brief. Provide helpful info, so maybe suggest checking the system for updates or contacting support. End with a thank you and offer further assistance. Let me check if I'm missing any important details. Oh, maybe include a call to action, like offering a free trial or a support message. Alright, putting it all together in a professional tone.
+</think>
+
+**Subject:** Assistance with Export Feature Crash – Urgent  
+
+Dear [Customer's Name],  
+
+We’re sorry to hear the issue with your export feature crashing when selecting PDF formats. While this is a low-urgency concern, we’d be happy to assist. Could you please check if there are any updates to the system or if you’d like to provide more information?  
+
+Thank you for your patience, and we look forward to helping resolve this.  
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Company Name]  
+[Contact Information]  
+
+---  
+*Note: Replace placeholders and ensure the tone remains professional and concise.*
+Messages: ['Email read and parsed', 'Escalated to human support', 'Draft reply created', 'Waiting for human approval']
+

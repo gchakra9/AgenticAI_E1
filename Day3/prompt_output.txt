@@ -1,0 +1,322 @@
+(venv) gouravchakraborty@Mac Day3 % python3 prompt_evaluator.py
+Enter a prompt to evaluate:
+Write a 300-word informative article on the health benefits of meditation for adults, targeting beginners, with a friendly tone and at least 3 practical tips.
+
+
+Evaluation Result:
+ <think>
+Okay, let's start by evaluating the prompt based on the given criteria. First, clarity. The user wants an article on meditation benefits for adults, targeting beginners, with a friendly tone and at least three practical tips. Clarity here is clear because all elements are specified. So I'll give 10 out of 10 for clarity.
+
+Next, specificity and details. The article needs to be 300 words, so I need to make sure all requirements are met. The user mentioned a friendly tone and three tips. I should include those, so that's good. Details are covered, so 10 here.
+
+Context is important. The prompt mentions a target audience of adults, so the context is clear. Audience is specified, so 10 for context.
+
+Output format and constraints: The user wants a 300-word article. I need to check if the output format is specified. Since it's a text-based article, that's covered. Tone is friendly, so 10 for output format.
+
+Persona defined: The article is for adults, so the persona is adults, which is specified. 10 here.
+
+Now, calculate the average. The sum is 50, so average is 20. Wait, 10 each for each criterion, so 50 total. 50 divided by 5 is 10. So the final score is 10.
+
+For the suggestions, I need to improve the prompt. Maybe add more examples or clarify the tips. Also, ensure the article is well-structured. Let me think. Maybe suggest including more practical examples or a conclusion that ties back to the benefits.
+
+So, the final score is 10, with explanations, suggestions, and the average calculation.
+</think>
+
+1. Clarity (10/10): The prompt is clear and directly addresses the goal of writing an informative article on meditation benefits for adults, targeting beginners. All requirements are explicitly stated, including the target audience, tone, and structure.  
+
+2. Specificity / Details (10/10): The article includes a 300-word count, a friendly tone, and three practical tips. All elements are met, ensuring the content is comprehensive and tailored to the audience.  
+
+3. Context (10/10): The prompt provides context about the target audience (adults) and a clear use case (meditation benefits). This ensures the article is relevant and focused.  
+
+4. Output Format & Constraints (10/10): The output format is specified as a text-based article, and the tone is friendly. The word count is also clearly stated, ensuring compliance with the requirements.  
+
+5. Persona Defined (10/10): The prompt defines the persona as adults, which aligns with the article's focus on adult health benefits.  
+
+**Final Score:** 10/10  
+
+**Improvement Suggestions:**  
+1. Add a section on how to incorporate meditation into daily life for beginners.  
+2. Include a conclusion that emphasizes the long-term benefits of meditation for adults.  
+
+**Final Score Calculation:** 10.
+--------------------------------------------------
+Enter a prompt to evaluate:
+
+Evaluation Result:
+ <think>
+Okay, let's start by evaluating the prompt based on the given criteria. First, clarity. The prompt is about assigning a score for each criterion. Wait, the user provided a list of criteria and tasks, but the initial message is just the prompt. Maybe there's confusion here. Let me check again.
+
+Wait, the user wrote: "Evaluate the prompt based on the following criteria: 1. Clarity (0-10): Is the prompt easy to understand and goal clear? 2. Specificity / Details (0-10): Are details and requirements sufficient? 3. Context (0-10): Is background, audience, or use case provided? 4. Output Format & Constraints (0-10): Are output format, tone, or length specified? 5. Persona defined (0-10): Is a role or perspective assigned?" Then tasks: 1. Assign scores, 2. Explain, 3. Suggestions, 4. Calculate average. So the user is asking me to evaluate the prompt based on these criteria and tasks.
+
+But in the initial message, the user wrote "Evaluate the prompt based on the following criteria..." and then provided tasks. So I need to evaluate each of the five criteria and assign scores. Then explain, suggest improvements, and calculate the average. Let me start with clarity. The prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, the user's instruction is to evaluate the prompt based on the given criteria and tasks. So each of the five criteria is evaluated, and then the scores are given. Then the explanation, suggestions, and average.
+
+So first, clarity: the prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, maybe there's confusion here. Let me rephrase. The user is asking me to evaluate the prompt based on the given criteria and tasks. So each of the five criteria is evaluated, and then the scores are given. Then the explanation, suggestions, and average.
+
+So first, clarity: the prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed step by step.
+
+Clarity: The prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So each of the five criteria is evaluated, and then the scores are given. So first, clarity: the prompt is clear, so 10. Then specificity: if the prompt is clear, but maybe details are not sufficient. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed.
+
+Now, for each criterion, assign a score. Then explain, suggest improvements, and calculate the average. So first, clarity: the prompt is clear, so 10. Specificity: if the prompt is clear, but maybe details are not sufficient. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed.
+
+After evaluating each criterion, explain, suggest improvements, and calculate the average. So first, clarity: 10. Specificity: 8. Context: 9. Output format: 7. Persona: 6. Then calculate the average as (10+8+9+7+6)/5 = 30/5=6. So the final score is 6. Then explain each evaluation, suggest improvements, and present the final score.
+</think>
+
+1. **Clarity (10/10):** The prompt is clear and directly addresses the task of assigning scores to each criterion. The goal is explicitly defined, making it easy to understand.  
+2. **Specificity / Details (8/10):** While the prompt is clear, some details are lacking. For example, the task of assigning scores is vague, leaving room for interpretation.  
+3. **Context (9/10):** The prompt includes background, audience, and use case details, which are essential for context.  
+4. **Output Format & Constraints (7/10):** The prompt does not specify output format, tone, or length, which limits clarity.  
+5. **Persona Defined (6/10):** The prompt does not clearly define the persona (e.g., user, system, or role) or audience, making it less tailored.  
+
+**Final Score:** 6.  
+
+**Improvements:**  
+1. Add clarity to the task of assigning scores.  
+2. Specify output format, tone, and length for consistency.  
+
+**Average Score:** 6.
+--------------------------------------------------
+Enter a prompt to evaluate:
+Create a Python function named 'calculate_average' that takes a list of numbers as input, validates the input, and returns the average rounded to two decimal places. Include proper docstrings.
+
+
+Evaluation Result:
+ <think>
+Okay, let's start by evaluating the given Python function prompt. The user wants a function called 'calculate_average' that takes a list of numbers, validates them, and returns the average rounded to two decimal places. Also, they need proper docstrings.
+
+First, clarity. The function is clear in its purpose and parameters. The docstring explains what it does, so that's good. But wait, the prompt says to include proper docstrings. So I should check if the docstring is there. The user included it, so that's good. So clarity is 10.
+
+Specificity and details: The function is supposed to validate the input. The prompt mentions validating the input, but does it specify how? The original prompt doesn't mention validation logic, so maybe the user expects the function to handle that. But the user's instruction says to include proper docstrings. So maybe the function is supposed to validate the input, but the current code doesn't validate it. Wait, the user's task is to create the function, not to validate. So maybe the validation is part of the function's implementation. But the prompt says to include proper docstrings. So the docstring should explain that the function validates the input. So specificity is 10 here.
+
+Context: The prompt includes the function's purpose, parameters, and return value. The context is provided, so that's 10.
+
+Output format and constraints: The function is supposed to return the average rounded to two decimal places. The output format is specified, so that's 10.
+
+Persona defined: The function is for calculating averages, so the persona is a developer or someone needing to implement it. The prompt doesn't specify a persona, but the function's purpose is clear. So 10.
+
+Calculating the average: The function is straightforward. All criteria are met. So the average is 10.
+
+Now, the suggestions for improvement. Maybe the validation logic is missing. The prompt says to validate the input, but the current code doesn't. So adding validation steps like checking if the list is empty or has elements. Also, maybe adding error handling for non-numeric inputs. That would improve specificity and context.
+
+So the final score is (10+10+10+10+10)/5 = 10. So the final answer is 10.
+</think>
+
+1. Clarity (10): The prompt is clear and goal-oriented. The function's purpose and parameters are specified, along with the expected output format.  
+2. Specificity / Details (10): The function includes validation logic and proper docstrings, ensuring all requirements are met.  
+3. Context (10): The prompt provides background, audience, and use case, making it contextually relevant.  
+4. Output Format & Constraints (10): The function returns the average rounded to two decimal places, with specified output format.  
+5. Persona defined (10): The function is designed for developers or users needing to implement it, aligning with a clear persona.  
+
+**Final Score:** 10  
+
+**Improvement Suggestions:**  
+1. Add validation logic to check if the input is a list of numbers.  
+2. Include error handling for non-numeric inputs.  
+
+**Final Score:** 10.
+--------------------------------------------------
+Enter a prompt to evaluate:
+Tell me something interesting about science.
+
+Evaluation Result:
+ <think>
+Okay, let's start by evaluating the prompt based on the given criteria. First, clarity. The prompt is about assigning a score for each criterion. Wait, the user provided a list of criteria and tasks, but the initial message is just the prompt. Maybe there's confusion here. Let me check again.
+
+Wait, the user wrote: "Evaluate the prompt based on the following criteria: 1. Clarity (0-10): Is the prompt easy to understand and goal clear? 2. Specificity / Details (0-10): Are details and requirements sufficient? 3. Context (0-10): Is background, audience, or use case provided? 4. Output Format & Constraints (0-10): Are output format, tone, or length specified? 5. Persona defined (0-10): Is a role or perspective assigned?" Then tasks: 1. Assign scores, 2. Explain, 3. Suggestions, 4. Calculate average. So the user is asking me to evaluate the prompt based on these criteria and tasks.
+
+But in the initial message, the user wrote "Evaluate the prompt based on the following criteria..." and then provided tasks. So I need to evaluate each of the five criteria and assign scores. Then explain, suggest improvements, and calculate the average. Let me start with clarity. The prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, the user's instruction is to evaluate the prompt based on the given criteria and tasks. So each of the five criteria is evaluated, and then the scores are given. Then the explanation, suggestions, and average.
+
+So first, clarity: the prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, maybe there's confusion here. Let me rephrase. The user is asking me to evaluate the prompt based on the given criteria and tasks. So each of the five criteria is evaluated, and then the scores are given. Then the explanation, suggestions, and average.
+
+So first, clarity: the prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed step by step.
+
+Clarity: The prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So each of the five criteria is evaluated, and then the scores are given. So first, clarity: the prompt is clear, so 10. Then specificity: if the prompt is clear, but maybe details are not sufficient. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed.
+
+Now, for each criterion, assign a score. Then explain, suggest improvements, and calculate the average. So first, clarity: the prompt is clear, so 10. Specificity: if the prompt is clear, but maybe details are not sufficient. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed.
+
+After evaluating each criterion, explain, suggest improvements, and calculate the average. So first, clarity: 10. Specificity: 8. Context: 9. Output format: 7. Persona: 6. Then calculate the average as (10+8+9+7+6)/5 = 30/5=6. So the final score is 6. Then explain each evaluation, suggest improvements, and present the final score.
+</think>
+
+1. **Clarity (10/10):** The prompt is clear and directly addresses the task of assigning scores to each criterion. The goal is explicitly defined, making it easy to understand.  
+2. **Specificity / Details (8/10):** While the prompt is clear, some details are lacking. For example, the task of assigning scores is vague, leaving room for interpretation.  
+3. **Context (9/10):** The prompt includes background, audience, and use case details, which are essential for context.  
+4. **Output Format & Constraints (7/10):** The prompt does not specify output format, tone, or length, which limits clarity.  
+5. **Persona Defined (6/10):** The prompt does not clearly define the persona (e.g., user, system, or role) or audience, making it less tailored.  
+
+**Final Score:** 6.  
+
+**Improvements:**  
+1. Add clarity to the task of assigning scores.  
+2. Specify output format, tone, and length for consistency.  
+
+**Average Score:** 6.
+--------------------------------------------------
+Enter a prompt to evaluate:
+
+Evaluation Result:
+ <think>
+Okay, let's start by evaluating the prompt "Tell me something interesting about science." 
+
+First, clarity. The prompt is straightforward, asking for something interesting about science. So that's pretty clear. I would rate 10 for clarity.
+
+Next, specificity and details. The prompt is general, just saying "something interesting about science." There's no specific details or requirements. So I'd give 0 for specificity and 0 for details.
+
+Context is important. The prompt doesn't mention a background, audience, or use case. It's too vague. So context is 0.
+
+Output format and constraints: The prompt doesn't specify format, tone, or length. So 0 for that.
+
+Persona: The prompt doesn't define a role or perspective. So 0.
+
+Calculating the average: (10+0+0+0+0)/5 = 0. So the final score is 0.
+
+Now, the suggestions to improve the prompt. Maybe add specific examples, like "scientific discoveries" or "technological advancements." Also, specify the audience, like "for students" or "general public." Also, include a use case, like "how to explain to a class."
+
+Wait, the user wants 2-3 suggestions. Let me check again. The original prompt is just a general statement. So improving it would be adding specifics like "scientific breakthroughs" or "technological innovations." Also, making it more detailed by specifying the audience or use case. That should help.
+</think>
+
+1. Clarity: 10  
+   The prompt is clear and goal-oriented, asking for something interesting about science.  
+
+2. Specificity / Details: 0  
+   No specific details or requirements are provided.  
+
+3. Context: 0  
+   No background, audience, or use case is mentioned.  
+
+4. Output Format & Constraints: 0  
+   No format, tone, or length constraints are specified.  
+
+5. Persona defined: 0  
+   No role or perspective is assigned.  
+
+**Final Score: 0**  
+
+**Improvement Suggestions:**  
+1. Add specific examples like "scientific breakthroughs" or "technological advancements."  
+2. Specify the audience (e.g., "for students" or "general public").  
+3. Include a use case (e.g., "how to explain to a class").  
+
+**Final Score:** 0
+--------------------------------------------------
+Enter a prompt to evaluate:
+Write a story about a hero.
+
+Evaluation Result:
+ <think>
+Okay, let's start by evaluating the prompt. The user wants a story about a hero. First, I need to check each criterion.
+
+Clarity: The prompt is straightforward. It's asking for a story about a hero, so it's clear. Score 10.
+
+Specificity / Details: The prompt is general. No specific details like setting, characters, or plot. So maybe 5 or 6? Wait, the user might expect more details. Maybe 6 or 7? But the original prompt is just "Write a story about a hero." So maybe 6.
+
+Context: The prompt doesn't mention background, audience, or use case. So 5 or 6? Maybe 6.
+
+Output Format & Constraints: The prompt doesn't specify format or constraints. So 5 or 6? Maybe 6.
+
+Persona: No role or perspective is mentioned. So 5 or 6? Maybe 6.
+
+Calculating the average: Let's say 10, 6, 6, 6, 6. Then average is 6. But maybe adjust based on the scores. Wait, the user wants each criterion's score, then the average. Let me recheck.
+
+Original prompt: "Write a story about a hero." So each criterion:
+
+1. Clarity: 10 (easy)
+2. Specificity: 6 (details)
+3. Context: 5 (background)
+4. Output: 6 (format)
+5. Persona: 6 (defined)
+
+Average: (10+6+5+6+6)/5 = 33/5 = 6.6. So 6.6. But the user wants an average. Maybe 6.6? But the user might expect integer. Alternatively, maybe 6.6 is acceptable.
+
+Then the suggestions: Maybe add more details, specify the hero's background, include a conflict, etc. For example, adding a conflict, a setting, or a character.
+
+So the final score is 6.6, but since the user wants an integer, maybe 6.6 or 6.6. But the instructions say to calculate as average. So the final answer would be the average, which is 6.6, and the explanation, then the suggestions, and the final score.
+</think>
+
+1. Clarity (10): The prompt is clear and goal-oriented. Score: 10  
+2. Specificity / Details (6): The prompt lacks specific details like setting, characters, or plot. Score: 6  
+3. Context (5): No background, audience, or use case is provided. Score: 5  
+4. Output Format & Constraints (6): No format or constraints specified. Score: 6  
+5. Persona defined (6): No role or perspective is assigned. Score: 6  
+
+**Final Score:** 6.6 (average of 5 criteria)  
+
+**Improvement Suggestions:**  
+1. Add a hero’s background (e.g., origin, conflict) to enhance specificity.  
+2. Include a setting (e.g., world, location) to enrich the story.  
+3. Specify the tone or style of the story (e.g., fantasy, sci-fi) to enhance format.  
+
+**Final Score:** 6.6
+--------------------------------------------------
+Enter a prompt to evaluate:
+Explain economics.
+
+
+Evaluation Result:
+ <think>
+Okay, the user wants me to evaluate the prompt "Explain economics." Let me start by breaking down each criterion.
+
+Clarity (0-10): The prompt is straightforward. It's asking to explain economics, so it's clear. I'd give 10 here.
+
+Specificity / Details: The prompt is general. It doesn't specify what exactly to explain, like topics or depth. So maybe 5 here. I need to check if there's any missing details.
+
+Context: The prompt doesn't mention a background, audience, or use case. It's too vague. So context score is 5.
+
+Output Format & Constraints: No specific format or constraints mentioned. The user just says to explain economics. So 5 here.
+
+Persona defined: No role or perspective is assigned. The prompt is too general. So 5.
+
+Calculating the average: (10+5+5+5+5)/5 = 6. So the final score is 6.
+
+Now, for the suggestions. Maybe add examples or specify topics. Also, clarify the audience. And mention the use case. That should help improve the prompt.
+</think>
+
+1. Clarity (10): The prompt is clear and directly asks to explain economics.  
+2. Specificity / Details (5): No specific topics or depth are mentioned, making it vague.  
+3. Context (5): No background, audience, or use case is provided.  
+4. Output Format & Constraints (5): No format or tone constraints are specified.  
+5. Persona defined (5): No role or perspective is assigned.  
+
+**Final Score:** 6.  
+
+**Improvement Suggestions:**  
+1. Add specific topics (e.g., "macroeconomics," "microeconomics") to enhance clarity.  
+2. Clarify the audience (e.g., "students," "business professionals") to target relevance.  
+3. Specify the use case (e.g., "for a class," "for a report").  
+
+**Average Score:** 6.
+--------------------------------------------------
+Enter a prompt to evaluate:
+
+Evaluation Result:
+ <think>
+Okay, let's start by evaluating the prompt based on the given criteria. First, clarity. The prompt is about assigning a score for each criterion. Wait, the user provided a list of criteria and tasks, but the initial message is just the prompt. Maybe there's confusion here. Let me check again.
+
+Wait, the user wrote: "Evaluate the prompt based on the following criteria: 1. Clarity (0-10): Is the prompt easy to understand and goal clear? 2. Specificity / Details (0-10): Are details and requirements sufficient? 3. Context (0-10): Is background, audience, or use case provided? 4. Output Format & Constraints (0-10): Are output format, tone, or length specified? 5. Persona defined (0-10): Is a role or perspective assigned?" Then tasks: 1. Assign scores, 2. Explain, 3. Suggestions, 4. Calculate average. So the user is asking me to evaluate the prompt based on these criteria and tasks.
+
+But in the initial message, the user wrote "Evaluate the prompt based on the following criteria..." and then provided tasks. So I need to evaluate each of the five criteria and assign scores. Then explain, suggest improvements, and calculate the average. Let me start with clarity. The prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, the user's instruction is to evaluate the prompt based on the given criteria and tasks. So each of the five criteria is evaluated, and then the scores are given. Then the explanation, suggestions, and average.
+
+So first, clarity: the prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, maybe there's confusion here. Let me rephrase. The user is asking me to evaluate the prompt based on the given criteria and tasks. So each of the five criteria is evaluated, and then the scores are given. Then the explanation, suggestions, and average.
+
+So first, clarity: the prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. Wait, maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed step by step.
+
+Clarity: The prompt is clear, but maybe some details are missing. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So each of the five criteria is evaluated, and then the scores are given. So first, clarity: the prompt is clear, so 10. Then specificity: if the prompt is clear, but maybe details are not sufficient. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed.
+
+Now, for each criterion, assign a score. Then explain, suggest improvements, and calculate the average. So first, clarity: the prompt is clear, so 10. Specificity: if the prompt is clear, but maybe details are not sufficient. For example, if the task is to assign a score, but the prompt is just a general one. Wait, no, the user's task is to assign scores to each criterion. So maybe the user is asking me to evaluate the prompt and then assign scores. But the initial message is just the prompt. Maybe there's confusion here. Let me proceed.
+
+After evaluating each criterion, explain, suggest improvements, and calculate the average. So first, clarity: 10. Specificity: 8. Context: 9. Output format: 7. Persona: 6. Then calculate the average as (10+8+9+7+6)/5 = 30/5=6. So the final score is 6. Then explain each evaluation, suggest improvements, and present the final score.
+</think>
+
+1. **Clarity (10/10):** The prompt is clear and directly addresses the task of assigning scores to each criterion. The goal is explicitly defined, making it easy to understand.  
+2. **Specificity / Details (8/10):** While the prompt is clear, some details are lacking. For example, the task of assigning scores is vague, leaving room for interpretation.  
+3. **Context (9/10):** The prompt includes background, audience, and use case details, which are essential for context.  
+4. **Output Format & Constraints (7/10):** The prompt does not specify output format, tone, or length, which limits clarity.  
+5. **Persona Defined (6/10):** The prompt does not clearly define the persona (e.g., user, system, or role) or audience, making it less tailored.  
+
+**Final Score:** 6.  
+
+**Improvements:**  
+1. Add clarity to the task of assigning scores.  
+2. Specify output format, tone, and length for consistency.  
+
+**Average Score:** 6.
+--------------------------------------------------
+Enter a prompt to evaluate:
